@@ -1,2 +1,2 @@
-This is for collecting the scripts. code, programs or whatever want to call. <br/>
-Specifically for UCI's ICS32 course
+This is for collecting scripts, code, programs, or whatever you want to call them. <br/>
+**Specifically for UCI's ICS32 course.
